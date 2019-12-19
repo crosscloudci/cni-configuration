@@ -1,6 +1,6 @@
  project:
   logo_url: "https://raw.githubusercontent.com/cncf/artwork/master/projects/cni/icon/color/cni-icon-color.svg?sanitize=true"
-  display_name: Container Network Interface (CNI)
+  display_name: CNI
   sub_title: Networking API
   project_url: "https://github.com/containernetworking/cni"
   stable_ref: "v0.7.1"
